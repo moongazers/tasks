@@ -1,5 +1,3 @@
-Based on the Xero API documentation, here are the recommended approaches for each scenario:
-
 C1. How would you prove that our Xero API connection is working before checking invoices?
 -------------------------------------------------------------
 

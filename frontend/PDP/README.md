@@ -1,4 +1,4 @@
-# My App — Product Detail Page
+# PDP — Product Detail Page
 
 A React + TypeScript + Vite e-commerce Product Detail Page (PDP) with variant selection, quantity control, and add-to-cart flow.
 
